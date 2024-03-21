@@ -79,17 +79,20 @@ The architecture of the AI Planet Chat App involves the following components:
 
 ## Usage
 ![First Page](./Images/1.PNG)
-![Upload a PDF](./Images/2.PNG)
-![PDF Uploaded](./Images/3.PNG)
-![Ask a Question](./Images/4.PNG)
-![Ask the follow up questions](./Images/5.PNG)
+
 1. Upload a PDF document: Users can upload a PDF document through the frontend interface.
+![Upload a PDF](./Images/2.PNG)
 
 2. Ask questions: Once the PDF is uploaded, users can ask questions related to the content of the document using the chat interface.
+![PDF Uploaded](./Images/3.PNG)
 
 3. Receive responses: The application generates responses based on the content of the PDF and user queries, providing relevant information to the user.
+![Ask a Question](./Images/4.PNG)
 
-4. Speech-to-text: Users can utilize the speech-to-text feature to input their queries by speaking instead of typing.
+4. Ask for the Follow Up Question and get the response
+![Ask the follow up questions](./Images/5.PNG)
+
+5. Speech-to-text: Users can utilize the speech-to-text feature to input their queries by speaking instead of typing.
 
 ## Contributing
 
