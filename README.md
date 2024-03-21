@@ -1,4 +1,4 @@
-\# AI Planet Chat App
+## AI Planet Chat App
 
 AI Planet Chat App is a project designed to enable users to interact with a PDF document through a chat interface. The application utilizes React for the frontend and FastAPI for the backend. It consists of two main folders: Frontend and Backend. Both frontend and backend sections are intended to be run separately.
 
