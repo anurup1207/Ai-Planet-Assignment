@@ -17,7 +17,7 @@ To get started with the AI Planet Chat App, follow these steps:
 
    Create a `.env` file in both the frontend and backend directories and add the following keys:
 
-
+   ```
    # Backend .env file
    OPENAI_API_KEY=
    DB_NAME=
