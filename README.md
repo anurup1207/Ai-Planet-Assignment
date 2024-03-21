@@ -27,7 +27,7 @@ To get started with the AI Planet Chat App, follow these steps:
    DB_PORT=
    ```
 
-   Replace `<repository_url>` with the actual URL of the repository.
+
 
 3. Install dependencies:
 
@@ -78,7 +78,11 @@ The architecture of the AI Planet Chat App involves the following components:
 - **Speech-to-Text**: An additional feature of the application is speech-to-text functionality, which allows users to speak instead of typing their queries. This feature enhances user accessibility and ease of use.
 
 ## Usage
-
+![First Page](./Images/1.PNG)
+![Upload a PDF](./Images/2.PNG)
+![PDF Uploaded](./Images/3.PNG)
+![Ask a Question](./Images/4.PNG)
+![Ask the follow up questions](./Images/5.PNG)
 1. Upload a PDF document: Users can upload a PDF document through the frontend interface.
 
 2. Ask questions: Once the PDF is uploaded, users can ask questions related to the content of the document using the chat interface.
